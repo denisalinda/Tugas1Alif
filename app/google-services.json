@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319429358874",
+    "project_id": "datatemaan",
+    "storage_bucket": "datatemaan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319429358874:android:5f524592063bbe9967e8a3",
+        "android_client_info": {
+          "package_name": "com.datatemaan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319429358874-5gn0a8ks646k1c92258cbs34cj8hvlj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXBXedD1PdkTYOrtnmgRA4X7XDS9bfhjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319429358874-5gn0a8ks646k1c92258cbs34cj8hvlj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
